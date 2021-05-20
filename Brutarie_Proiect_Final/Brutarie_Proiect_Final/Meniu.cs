@@ -25,7 +25,7 @@ namespace Brutarie_Proiect_Final
             Console.WriteLine("Doriti sa adaugati:");
             Console.WriteLine("1.Panificatie");
             Console.WriteLine("2.Patiserie");
-            Console.WriteLine("3.cofetarie");
+            Console.WriteLine("3.Cofetarie");
             Console.WriteLine("0.Revenire la ecranul anterior");
 
         }
