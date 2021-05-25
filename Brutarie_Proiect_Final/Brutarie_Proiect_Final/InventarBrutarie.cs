@@ -40,15 +40,15 @@ namespace Brutarie_Proiect_Final
                                 Panificatie.ProcesarePanificatie();
                                 int raspuns3 = int.Parse(Console.ReadLine());
 
-                                while (true)
-                                {
+                                //while (true)
+                                //{
                                     if (raspuns3 == 1)
                                     {
                                         Console.WriteLine("Introduceti numarul de produse:");
-                                        int nrProduse = 0;
+                                        int nrProduse;
                                         string s = Console.ReadLine();
                                         bool result = int.TryParse(s, out nrProduse);
-
+                                    //ceva nu merge aici
                                         if (result == false || nrProduse < 0 || nrProduse % 1 != 0)
                                         {
                                             while (result)
@@ -78,7 +78,7 @@ namespace Brutarie_Proiect_Final
                                         Console.WriteLine("Invalid input, please select again!");
                                         raspuns3 = int.Parse(Console.ReadLine());
                                     }
-                                }
+                                //}
 
                             }
                             else if (raspuns2 == 2)
