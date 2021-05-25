@@ -38,9 +38,9 @@ namespace Brutarie_Proiect_Final
                             {
                                 Console.Clear();
                                 Panificatie.ProcesarePanificatie();
-                                int raspuns3 = int.Parse(Console.ReadLine());
-                                bool q3 = true;
-                                while (q3)
+                                int raspuns3 = int.Parse(Console.ReadLine());                                
+                                
+                                while (true)
                                 {
                                     if (raspuns3 == 1)
                                     {
@@ -54,7 +54,7 @@ namespace Brutarie_Proiect_Final
                                         Console.WriteLine("ai introdus 2");
                                         break;
                                     }
-                                    else if (raspuns3 == 2)
+                                    else if (raspuns3 == 3)
                                     {
                                         //doar pt verificare functionalitate
                                         Console.WriteLine("ai introdus 3");
@@ -63,7 +63,7 @@ namespace Brutarie_Proiect_Final
                                     else
                                     {
                                         Console.WriteLine("Invalid input, please select again!");
-                                        break;
+                                        raspuns3 = int.Parse(Console.ReadLine());
                                     }                                    
                                 }
 
