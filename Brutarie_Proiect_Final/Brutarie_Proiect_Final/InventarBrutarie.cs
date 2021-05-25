@@ -8,7 +8,7 @@ namespace Brutarie_Proiect_Final
 {
     class InventarBrutarie
     {
-       public void Run()
+        public void Run()
         {
             bool q = true;
 
@@ -38,14 +38,45 @@ namespace Brutarie_Proiect_Final
                             {
                                 Console.Clear();
                                 Panificatie.ProcesarePanificatie();
+                                int raspuns3 = int.Parse(Console.ReadLine());
+                                bool q3 = true;
+                                while (q3)
+                                {
+                                    if (raspuns3 == 1)
+                                    {
+                                        //doar pt verificare functionalitate
+                                        Console.WriteLine("ai introdus 1");
+                                        break;
+                                    }
+                                    else if (raspuns3 == 2)
+                                    {
+                                        //doar pt verificare functionalitate
+                                        Console.WriteLine("ai introdus 2");
+                                        break;
+                                    }
+                                    else if (raspuns3 == 2)
+                                    {
+                                        //doar pt verificare functionalitate
+                                        Console.WriteLine("ai introdus 3");
+                                        break;
+                                    }
+                                    else
+                                    {
+                                        Console.WriteLine("Invalid input, please select again!");
+                                        break;
+                                    }                                    
+                                }
+
                             }
                             else if (raspuns2 == 2)
                             {
-                                Console.WriteLine("Pateu Merdenea Covrig Corn");
+                                Console.Clear();
+                                Patiserie.ProcesarePatiserie();
                             }
                             else if (raspuns2 == 3)
                             {
-                                Console.WriteLine("Ecler Amandina Savarina Tort");
+                                Console.Clear();
+                                Cofetarie.ProcesareCofetarie();
                             }
                             else
                             {
@@ -54,7 +85,7 @@ namespace Brutarie_Proiect_Final
 
                         }
 
-                    }      
+                    }
                 }
                 else if (raspuns == 0)
                 {
