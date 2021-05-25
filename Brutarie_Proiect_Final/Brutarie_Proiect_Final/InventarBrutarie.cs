@@ -38,16 +38,29 @@ namespace Brutarie_Proiect_Final
                             {
                                 Console.Clear();
                                 Panificatie.ProcesarePanificatie();
-                                int raspuns3 = int.Parse(Console.ReadLine());                                
-                                
+                                int raspuns3 = int.Parse(Console.ReadLine());
+
                                 while (true)
                                 {
                                     if (raspuns3 == 1)
                                     {
-                                        //doar pt verificare functionalitate
-                                        Console.WriteLine("ai introdus 1");
-                                        break;
+                                        Console.WriteLine("Introduceti numarul de produse:");
+                                        int nrProduse = 0;
+                                        string s = Console.ReadLine();
+                                        bool result = int.TryParse(s, out nrProduse);
+
+                                        if (result == false || nrProduse < 0 || nrProduse % 1 != 0)
+                                        {
+                                            while (result)
+                                            {
+                                                Console.WriteLine("Introduceti din nou un numar valabil:");
+                                                s = Console.ReadLine();
+                                                result = int.TryParse(s, out nrProduse);
+                                            }
+                                        }
+                                        Console.WriteLine("nr produse introduse: " + nrProduse);
                                     }
+
                                     else if (raspuns3 == 2)
                                     {
                                         //doar pt verificare functionalitate
@@ -64,7 +77,7 @@ namespace Brutarie_Proiect_Final
                                     {
                                         Console.WriteLine("Invalid input, please select again!");
                                         raspuns3 = int.Parse(Console.ReadLine());
-                                    }                                    
+                                    }
                                 }
 
                             }
