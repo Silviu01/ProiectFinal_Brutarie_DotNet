@@ -14,3 +14,19 @@ C:\Users\cc25954\dot_Net_Projects\Git_Repo\ProiectFinal_Brutarie_DotNet\Brutarie
 C:\Users\cc25954\dot_Net_Projects\Git_Repo\ProiectFinal_Brutarie_DotNet\Brutarie_Proiect_Final\Brutarie_Proiect_Final\obj\Debug\net5.0\Brutarie_Proiect_Final.pdb
 C:\Users\cc25954\dot_Net_Projects\Git_Repo\ProiectFinal_Brutarie_DotNet\Brutarie_Proiect_Final\Brutarie_Proiect_Final\obj\Debug\net5.0\Brutarie_Proiect_Final.genruntimeconfig.cache
 C:\Users\cc25954\dot_Net_Projects\Git_Repo\ProiectFinal_Brutarie_DotNet\Brutarie_Proiect_Final\Brutarie_Proiect_Final\obj\Debug\net5.0\Brutarie_Proiect_Final.csprojAssemblyReference.cache
+C:\Users\Dev\OneDrive - Yardi Systems, Inc\Silviu\Stuff\SIIT-.NET-2021\ProiectFinal_Brutarie_DotNet\Brutarie_Proiect_Final\Brutarie_Proiect_Final\bin\Debug\net5.0\Brutarie_Proiect_Final.exe
+C:\Users\Dev\OneDrive - Yardi Systems, Inc\Silviu\Stuff\SIIT-.NET-2021\ProiectFinal_Brutarie_DotNet\Brutarie_Proiect_Final\Brutarie_Proiect_Final\bin\Debug\net5.0\Brutarie_Proiect_Final.deps.json
+C:\Users\Dev\OneDrive - Yardi Systems, Inc\Silviu\Stuff\SIIT-.NET-2021\ProiectFinal_Brutarie_DotNet\Brutarie_Proiect_Final\Brutarie_Proiect_Final\bin\Debug\net5.0\Brutarie_Proiect_Final.runtimeconfig.json
+C:\Users\Dev\OneDrive - Yardi Systems, Inc\Silviu\Stuff\SIIT-.NET-2021\ProiectFinal_Brutarie_DotNet\Brutarie_Proiect_Final\Brutarie_Proiect_Final\bin\Debug\net5.0\Brutarie_Proiect_Final.runtimeconfig.dev.json
+C:\Users\Dev\OneDrive - Yardi Systems, Inc\Silviu\Stuff\SIIT-.NET-2021\ProiectFinal_Brutarie_DotNet\Brutarie_Proiect_Final\Brutarie_Proiect_Final\bin\Debug\net5.0\Brutarie_Proiect_Final.dll
+C:\Users\Dev\OneDrive - Yardi Systems, Inc\Silviu\Stuff\SIIT-.NET-2021\ProiectFinal_Brutarie_DotNet\Brutarie_Proiect_Final\Brutarie_Proiect_Final\bin\Debug\net5.0\ref\Brutarie_Proiect_Final.dll
+C:\Users\Dev\OneDrive - Yardi Systems, Inc\Silviu\Stuff\SIIT-.NET-2021\ProiectFinal_Brutarie_DotNet\Brutarie_Proiect_Final\Brutarie_Proiect_Final\bin\Debug\net5.0\Brutarie_Proiect_Final.pdb
+C:\Users\Dev\OneDrive - Yardi Systems, Inc\Silviu\Stuff\SIIT-.NET-2021\ProiectFinal_Brutarie_DotNet\Brutarie_Proiect_Final\Brutarie_Proiect_Final\obj\Debug\net5.0\Brutarie_Proiect_Final.csprojAssemblyReference.cache
+C:\Users\Dev\OneDrive - Yardi Systems, Inc\Silviu\Stuff\SIIT-.NET-2021\ProiectFinal_Brutarie_DotNet\Brutarie_Proiect_Final\Brutarie_Proiect_Final\obj\Debug\net5.0\Brutarie_Proiect_Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev\OneDrive - Yardi Systems, Inc\Silviu\Stuff\SIIT-.NET-2021\ProiectFinal_Brutarie_DotNet\Brutarie_Proiect_Final\Brutarie_Proiect_Final\obj\Debug\net5.0\Brutarie_Proiect_Final.AssemblyInfoInputs.cache
+C:\Users\Dev\OneDrive - Yardi Systems, Inc\Silviu\Stuff\SIIT-.NET-2021\ProiectFinal_Brutarie_DotNet\Brutarie_Proiect_Final\Brutarie_Proiect_Final\obj\Debug\net5.0\Brutarie_Proiect_Final.AssemblyInfo.cs
+C:\Users\Dev\OneDrive - Yardi Systems, Inc\Silviu\Stuff\SIIT-.NET-2021\ProiectFinal_Brutarie_DotNet\Brutarie_Proiect_Final\Brutarie_Proiect_Final\obj\Debug\net5.0\Brutarie_Proiect_Final.csproj.CoreCompileInputs.cache
+C:\Users\Dev\OneDrive - Yardi Systems, Inc\Silviu\Stuff\SIIT-.NET-2021\ProiectFinal_Brutarie_DotNet\Brutarie_Proiect_Final\Brutarie_Proiect_Final\obj\Debug\net5.0\Brutarie_Proiect_Final.dll
+C:\Users\Dev\OneDrive - Yardi Systems, Inc\Silviu\Stuff\SIIT-.NET-2021\ProiectFinal_Brutarie_DotNet\Brutarie_Proiect_Final\Brutarie_Proiect_Final\obj\Debug\net5.0\ref\Brutarie_Proiect_Final.dll
+C:\Users\Dev\OneDrive - Yardi Systems, Inc\Silviu\Stuff\SIIT-.NET-2021\ProiectFinal_Brutarie_DotNet\Brutarie_Proiect_Final\Brutarie_Proiect_Final\obj\Debug\net5.0\Brutarie_Proiect_Final.pdb
+C:\Users\Dev\OneDrive - Yardi Systems, Inc\Silviu\Stuff\SIIT-.NET-2021\ProiectFinal_Brutarie_DotNet\Brutarie_Proiect_Final\Brutarie_Proiect_Final\obj\Debug\net5.0\Brutarie_Proiect_Final.genruntimeconfig.cache

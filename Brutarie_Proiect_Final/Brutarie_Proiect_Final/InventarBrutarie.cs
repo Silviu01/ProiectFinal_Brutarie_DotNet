@@ -36,6 +36,7 @@ namespace Brutarie_Proiect_Final
                             }
                             else if (raspuns2 == 1)
                             {
+                                Console.Clear();
                                 Panificatie.ProcesarePanificatie();
                             }
                             else if (raspuns2 == 2)
