@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Dev\\.nuget\\packages\\": {}
+    "C:\\Users\\cc25954\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dev\\OneDrive - Yardi Systems, Inc\\Silviu\\Stuff\\SIIT-.NET-2021\\ProiectFinal_Brutarie_DotNet\\Brutarie_Proiect_Final\\Brutarie_Proiect_Final\\Brutarie_Proiect_Final.csproj",
+      "projectUniqueName": "C:\\Users\\cc25954\\dot_Net_Projects\\Git_Repo\\ProiectFinal_Brutarie_DotNet\\Brutarie_Proiect_Final\\Brutarie_Proiect_Final\\Brutarie_Proiect_Final.csproj",
       "projectName": "Brutarie_Proiect_Final",
-      "projectPath": "C:\\Users\\Dev\\OneDrive - Yardi Systems, Inc\\Silviu\\Stuff\\SIIT-.NET-2021\\ProiectFinal_Brutarie_DotNet\\Brutarie_Proiect_Final\\Brutarie_Proiect_Final\\Brutarie_Proiect_Final.csproj",
-      "packagesPath": "C:\\Users\\Dev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dev\\OneDrive - Yardi Systems, Inc\\Silviu\\Stuff\\SIIT-.NET-2021\\ProiectFinal_Brutarie_DotNet\\Brutarie_Proiect_Final\\Brutarie_Proiect_Final\\obj\\",
+      "projectPath": "C:\\Users\\cc25954\\dot_Net_Projects\\Git_Repo\\ProiectFinal_Brutarie_DotNet\\Brutarie_Proiect_Final\\Brutarie_Proiect_Final\\Brutarie_Proiect_Final.csproj",
+      "packagesPath": "C:\\Users\\cc25954\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\cc25954\\dot_Net_Projects\\Git_Repo\\ProiectFinal_Brutarie_DotNet\\Brutarie_Proiect_Final\\Brutarie_Proiect_Final\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Dev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\cc25954\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
