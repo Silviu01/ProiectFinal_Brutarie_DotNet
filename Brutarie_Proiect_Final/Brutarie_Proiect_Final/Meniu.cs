@@ -39,7 +39,7 @@ namespace Proiect_Test_Brutarie
             Console.WriteLine("1.Panificatie");
             Console.WriteLine("2.Patiserie");
             Console.WriteLine("3.Cofetarie");
-            Console.WriteLine("0.Revenire la ecranul anterior");
+            Console.WriteLine("0.Revenire la ecranul principal");
 
         }
 
@@ -57,6 +57,7 @@ namespace Proiect_Test_Brutarie
             Console.WriteLine("2.Merdenea");
             Console.WriteLine("3.Covrig");
             Console.WriteLine("4.Corn");
+            Console.WriteLine("0.Revenire la ecranul anterior");
         }
 
         public static void ProcesareCofetarie()
@@ -65,6 +66,7 @@ namespace Proiect_Test_Brutarie
             Console.WriteLine("2.Amandina");
             Console.WriteLine("3.Savarina");
             Console.WriteLine("4.Tort");
+            Console.WriteLine("0.Revenire la ecranul anterior");
         }
 
     }

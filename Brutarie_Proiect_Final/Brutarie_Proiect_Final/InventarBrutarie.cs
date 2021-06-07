@@ -36,7 +36,7 @@ namespace Proiect_Test_Brutarie
                             int input_2nd_menu = int.Parse(Console.ReadLine());
                             if (input_2nd_menu == 0)
                             {
-                                Meniu.AfiseazaMeniuPrincipal();
+                                break;
                             }
                             else if (input_2nd_menu == 1)
                             {
@@ -169,7 +169,7 @@ namespace Proiect_Test_Brutarie
                             int input_2nd_menu = int.Parse(Console.ReadLine());
                             if (input_2nd_menu == 0)
                             {
-                                Meniu.AfiseazaMeniuPrincipal();
+                                break;
                             }
                             else if (input_2nd_menu == 1)
                             {
@@ -179,7 +179,11 @@ namespace Proiect_Test_Brutarie
                                 Meniu.ProcesarePanificatie();
                                 int input_panificatie = int.Parse(Console.ReadLine());
 
-                                if (input_panificatie == 1)
+                                if (input_panificatie == 0)
+                                {
+                                    Meniu.AfiseazaMeniuCategoriiProduse();
+                                }
+                                else if (input_panificatie == 1)
                                 {
                                     Paine.VindePaine();
                                     break;
@@ -208,7 +212,11 @@ namespace Proiect_Test_Brutarie
                                 Meniu.ProcesarePatiserie();
                                 int input_patiserie = int.Parse(Console.ReadLine());
 
-                                if (input_patiserie == 1)
+                                if (input_patiserie == 0)
+                                {
+                                    Meniu.AfiseazaMeniuCategoriiProduse();
+                                }
+                                else if (input_patiserie == 1)
                                 {
                                     Pateu.VindePateu();
                                     break;
@@ -242,7 +250,11 @@ namespace Proiect_Test_Brutarie
                                 Meniu.ProcesareCofetarie();
                                 int input_cofetarie = int.Parse(Console.ReadLine());
 
-                                if (input_cofetarie == 1)
+                                if (input_cofetarie == 0)
+                                {
+                                    Meniu.AfiseazaMeniuCategoriiProduse();
+                                }
+                                else if (input_cofetarie == 1)
                                 {
                                     Ecler.VindeEcler();
                                     break;
@@ -283,7 +295,7 @@ namespace Proiect_Test_Brutarie
                             int input_2nd_menu = int.Parse(Console.ReadLine());
                             if (input_2nd_menu == 0)
                             {
-                                Meniu.AfiseazaMeniuPrincipal();
+                                break;
                             }
                             else if (input_2nd_menu == 1)
                             {
@@ -293,7 +305,11 @@ namespace Proiect_Test_Brutarie
                                 Meniu.ProcesarePanificatie();
                                 int input_panificatie = int.Parse(Console.ReadLine());
 
-                                if (input_panificatie == 1)
+                                if (input_panificatie == 0)
+                                {
+                                    Meniu.AfiseazaMeniuCategoriiProduse();
+                                }
+                                else if (input_panificatie == 1)
                                 {
                                     Paine.EliminaPaine();
                                     break;
@@ -308,6 +324,7 @@ namespace Proiect_Test_Brutarie
                                     Bagheta.EliminaBagheta();
                                     break;
                                 }
+                                else
                                 {
                                     Console.WriteLine("Invalid input, please select again!");
                                     input_panificatie = int.Parse(Console.ReadLine());
@@ -321,7 +338,11 @@ namespace Proiect_Test_Brutarie
                                 Meniu.ProcesarePatiserie();
                                 int input_patiserie = int.Parse(Console.ReadLine());
 
-                                if (input_patiserie == 1)
+                                if (input_patiserie == 0)
+                                {
+                                    Meniu.AfiseazaMeniuCategoriiProduse();
+                                }
+                                else if (input_patiserie == 1)
                                 {
                                     Pateu.EliminaPateu();
                                     break;
@@ -355,7 +376,11 @@ namespace Proiect_Test_Brutarie
                                 Meniu.ProcesareCofetarie();
                                 int input_cofetarie = int.Parse(Console.ReadLine());
 
-                                if (input_cofetarie == 1)
+                                if (input_cofetarie == 0)
+                                {
+                                    Meniu.AfiseazaMeniuCategoriiProduse();
+                                }
+                                else if (input_cofetarie == 1)
                                 {
                                     Ecler.EliminaEcler();
                                     break;
