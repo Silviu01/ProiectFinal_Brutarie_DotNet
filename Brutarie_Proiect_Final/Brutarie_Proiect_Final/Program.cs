@@ -6,8 +6,15 @@ namespace Proiect_Test_Brutarie
     {
         static void Main(string[] args)
         {
+            Console.BackgroundColor = ConsoleColor.Gray;
+            Console.ForegroundColor = ConsoleColor.Black;
+            Console.Clear();
             InventarBrutarie brutarie = new InventarBrutarie();
             brutarie.Run();
+
+            
+
         }
     }
 }
+

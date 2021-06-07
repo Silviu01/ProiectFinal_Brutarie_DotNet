@@ -48,6 +48,7 @@ namespace Proiect_Test_Brutarie
             Console.WriteLine("1.Paine");
             Console.WriteLine("2.Franzela");
             Console.WriteLine("3.Bagheta");
+            Console.WriteLine("0.Revenire la ecranul anterior");
         }
 
         public static void ProcesarePatiserie()

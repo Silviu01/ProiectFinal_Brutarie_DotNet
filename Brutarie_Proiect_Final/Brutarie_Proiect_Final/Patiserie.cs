@@ -26,7 +26,7 @@ namespace Proiect_Test_Brutarie
 
             string jsonString_C = File.ReadAllText("Inventar_Corn.json");
             Corn pCorn = JsonSerializer.Deserialize<Corn>(jsonString_C);
-            Console.WriteLine($"Stoc curent Bagheta:{pCorn.GetNewStockCorn}");
+            Console.WriteLine($"Stoc curent Corn:{pCorn.GetNewStockCorn}");
         }
 
         string[] produsePatiserie = { "Pateu", "Merdenea", "Covrig", "Corn" };
