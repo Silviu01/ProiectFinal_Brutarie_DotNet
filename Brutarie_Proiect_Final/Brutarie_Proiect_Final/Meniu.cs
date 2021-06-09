@@ -14,8 +14,8 @@ namespace Proiect_Test_Brutarie
             Console.WriteLine("\n1.Adaugă produse în stoc");
             Console.WriteLine("2.Vinde produse");
             Console.WriteLine("3.Elimină produse din stoc");
-            Console.WriteLine("4.Înregistrează comenzi // Work in Progress");
-            Console.WriteLine("5.Afisează stoc si vânzări // Work in Progress");
+            Console.WriteLine("4.Înregistrează comenzi");
+            Console.WriteLine("5.Afisează stoc si vânzări");
             Console.WriteLine("0.Închidere program");
         }
 
@@ -32,6 +32,16 @@ namespace Proiect_Test_Brutarie
         public static void MeniuVindetiProduse()
         {
             Console.WriteLine("Doriti sa vindeti:");
+        }
+
+        public static void MeniuComandatiProduse()
+        {
+            Console.WriteLine("Ne cerem scuze, dar momentan comenzile online nu se pot procesa. Multumim!");
+        }
+
+        public static void MeniuAfiseazaInventar()
+        {
+            Console.WriteLine("Total Inventar:");
         }
 
         public static void AfiseazaMeniuCategoriiProduse()

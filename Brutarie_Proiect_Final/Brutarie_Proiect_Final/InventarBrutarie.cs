@@ -408,6 +408,19 @@ namespace Proiect_Test_Brutarie
                             }
                         }
                     }
+                    else if (input_1st_menu == 4)
+                    {
+                        Console.Clear();
+                        Meniu.MeniuComandatiProduse();                       
+                    }
+                    else if (input_1st_menu == 5)
+                    {
+                        Console.Clear();
+                        Meniu.MeniuAfiseazaInventar();
+                        Panificatie.AfiseazaInventarPanificatie();
+                        Patiserie.AfiseazaInventarPatiserie();
+                        Cofetarie.AfiseazaInventarCofetarie();
+                    }
                 }
                 else if (input_1st_menu == 0)
                 {
